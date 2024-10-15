@@ -1,0 +1,7 @@
+{
+  "name": "avelina-hernandez-hernandez-10a",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
